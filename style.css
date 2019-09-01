@@ -1,3 +1,6 @@
+.cursor-pointer{
+    cursor: pointer;
+  }
 .btn-outline-warning {
     color: #e67e22;
     border-color: #e67e22;
